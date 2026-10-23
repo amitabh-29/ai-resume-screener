@@ -320,7 +320,7 @@ Audit trail for screening decisions
 
 👨‍💻 Author
 
-Anurag Singh
+Amitabh Chaturvedi
 
 GitHub
 
